@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="cz.cvut.fit.gephi.edge.betweenness.metric">
+    <module_version install_time="1671516645317" last="true" origin="installer" specification_version="1.1.0">
+        <file crc="207475060" name="config/Modules/cz-cvut-fit-gephi-edge-betweenness-metric.xml"/>
+        <file crc="2298107181" name="modules/cz-cvut-fit-gephi-edge-betweenness-metric.jar"/>
+    </module_version>
+</module>

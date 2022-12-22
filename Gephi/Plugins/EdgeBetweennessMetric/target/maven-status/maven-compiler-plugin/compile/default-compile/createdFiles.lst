@@ -1,0 +1,7 @@
+META-INF\services\org.gephi.statistics.spi.StatisticsUI
+cz\cvut\fit\gephi\edgebetweenness\EdgeBetweenness.class
+cz\cvut\fit\gephi\edgebetweenness\EdgeBetweennessPanel.class
+cz\cvut\fit\gephi\edgebetweenness\EdgeBetweennessPanel$1.class
+cz\cvut\fit\gephi\edgebetweenness\EdgeBetweennessUI.class
+META-INF\services\org.gephi.statistics.spi.StatisticsBuilder
+cz\cvut\fit\gephi\edgebetweenness\EdgeBetweennessBuilder.class

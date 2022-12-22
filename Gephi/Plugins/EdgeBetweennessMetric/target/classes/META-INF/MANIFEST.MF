@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Edge Betweenness Metric
+OpenIDE-Module-Short-Description: Edge betweenness of an edge as the n
+ umber of shortest paths between pairs of nodes that run along it
+OpenIDE-Module-Long-Description: Foo
+OpenIDE-Module-Display-Category: Metric
+OpenIDE-Module-Specification-Version: 1.1.0
+OpenIDE-Module-Implementation-Version: 1.1.0
+OpenIDE-Module-Build-Version: 202212200609
+OpenIDE-Module: cz.cvut.fit.gephi.edge.betweenness.metric
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Module-Dependencies: org.openide.util.lookup > 8.49, or
+ g.gephi.graph.api > 0.9.3, org.gephi.statistics.api > 0.9.3, org.geph
+ i.utils.longtask > 0.9.3, org.openide.util > 9.23, org.gephi.ui.libra
+ ry.wrapper > 0.9.3
+
